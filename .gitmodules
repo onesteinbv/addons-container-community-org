@@ -1,4 +1,0 @@
-[submodule "addons-generic"]
-	path = addons-generic
-	url = git@github.com:onesteinbv/addons-generic.git
-	branch = 15.0
