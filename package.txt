@@ -43,6 +43,8 @@ addons-generic/website_share_telegram
 addons-generic/website_share_tumblr
 addons-generic/website_share_wordpress
 addons-generic/website_two_steps_share_technical
+addons-pre-oca/mass_mailing_partner
+addons-pre-oca/membership_extension
 addons-pre-oca/website_matomo_tag_manager
 bank-statement-import/account_statement_import
 bank-statement-import/account_statement_import_camt
