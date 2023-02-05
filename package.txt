@@ -15,9 +15,7 @@ addons-generic/website_hide_navbar_technical
 addons-generic/website_mass_mailing_membership_section
 addons-generic/website_membership_registration
 addons-generic/website_membership_section
-addons-generic/website_openstreetmap
 addons-generic/website_sale_share_filter_option
-addons-generic/website_select_map_provider_technical
 addons-generic/website_share_blogger
 addons-generic/website_share_diaspora
 addons-generic/website_share_filter_option_blogger
@@ -41,6 +39,7 @@ addons-generic/website_share_snapchat
 addons-generic/website_share_telegram
 addons-generic/website_share_tumblr
 addons-generic/website_share_wordpress
+addons-generic/website_snippet_openstreetmap
 addons-generic/website_two_steps_share_technical
 addons-pre-oca/mass_mailing_partner
 addons-pre-oca/membership_extension
@@ -49,6 +48,7 @@ bank-statement-import/account_statement_import
 bank-statement-import/account_statement_import_camt
 bank-statement-import/account_statement_import_online
 bank-statement-import/account_statement_import_online_ponto
+partner-contact/partner_external_map
 server-tools/base_fontawesome
 web/web_widget_dropdown_dynamic
 website/website_odoo_debranding

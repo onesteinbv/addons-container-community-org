@@ -140,6 +140,7 @@
         'account_statement_import_online',
         'account_statement_import_online_ponto',
         'base_fontawesome',
+        'partner_external_map',
         'web_widget_dropdown_dynamic',
         'website_odoo_debranding',
 
@@ -161,9 +162,7 @@
         'website_mass_mailing_membership_section',
         'website_membership_registration',
         'website_membership_section',
-        'website_openstreetmap',
         'website_sale_share_filter_option',
-        'website_select_map_provider_technical',
         'website_share_blogger',
         'website_share_diaspora',
         'website_share_filter_option_blogger',
@@ -188,6 +187,7 @@
         'website_share_tumblr',
         'website_share_wordpress',
         'website_snippet_dynamic_link',
+        'website_snippet_openstreetmap',
         'website_two_steps_share_technical',
 
         # 3rd-Party
