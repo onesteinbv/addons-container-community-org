@@ -9,7 +9,7 @@ addons-generic/membership_hr
 addons-generic/membership_hr_recruitment
 addons-generic/membership_section
 addons-generic/web_editor_fontawesome
-addons-generic/website_event_openstreetmap
+addons-generic/website_event_external_map
 addons-generic/website_event_share_filter_option
 addons-generic/website_hide_navbar_technical
 addons-generic/website_mass_mailing_membership_section
