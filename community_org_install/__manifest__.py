@@ -1,8 +1,8 @@
 # Copyright 2023 Onestein (<http://www.onestein.eu>)
 # License AGPL-3.0 or later (http://www.gnu.org/licenses/agpl.html).
 {
-    'name': 'NWB - Install',
-    'description': 'NWB - Install',
+    'name': 'Community Based Organization - Install',
+    'description': 'Community Based Organization - Install',
     'category': 'Technical Settings',
     'version': '15.0.1.0.0',
     'author': 'Onestein',
@@ -145,7 +145,7 @@
         'website_odoo_debranding',
 
         # Custom
-        'nwb_base',
+        'community_org_base',
 
         # Onestein
         'base_municipality',
