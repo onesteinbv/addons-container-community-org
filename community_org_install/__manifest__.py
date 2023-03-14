@@ -52,6 +52,7 @@
         'hr_expense',
         'hr_org_chart',
         'hr_recruitment',
+        'hr_timesheet',
         'http_routing',
         'iap',
         'iap_crm',
