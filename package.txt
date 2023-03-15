@@ -8,6 +8,7 @@ addons-generic/membership_committee
 addons-generic/membership_hr
 addons-generic/membership_hr_recruitment
 addons-generic/membership_section
+addons-generic/project_role_members
 addons-generic/web_editor_fontawesome
 addons-generic/website_event_external_map
 addons-generic/website_event_share_filter_option
@@ -15,6 +16,8 @@ addons-generic/website_hide_navbar_technical
 addons-generic/website_mass_mailing_membership_section
 addons-generic/website_membership_registration
 addons-generic/website_membership_section
+addons-generic/website_project
+addons-generic/website_project_role_members
 addons-generic/website_sale_share_filter_option
 addons-generic/website_share_blogger
 addons-generic/website_share_diaspora
@@ -49,6 +52,7 @@ bank-statement-import/account_statement_import_camt
 bank-statement-import/account_statement_import_online
 bank-statement-import/account_statement_import_online_ponto
 partner-contact/partner_external_map
+project/project_role
 server-tools/base_fontawesome
 web/web_widget_dropdown_dynamic
 website/website_odoo_debranding
