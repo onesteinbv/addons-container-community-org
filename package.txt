@@ -1,5 +1,5 @@
-./nwb_base
-./nwb_install
+./community_org_base
+./community_org_install
 account-reconcile/account_reconciliation_widget
 addons-generic/base_municipality
 addons-generic/mass_mailing_membership_committee
@@ -49,6 +49,7 @@ addons-pre-oca/mass_mailing_partner
 addons-pre-oca/membership_extension
 addons-pre-oca/website_matomo_tag_manager
 bank-statement-import/account_statement_import
+bank-statement-import/account_statement_import_base
 bank-statement-import/account_statement_import_camt
 bank-statement-import/account_statement_import_online
 bank-statement-import/account_statement_import_online_ponto
