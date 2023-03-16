@@ -34,3 +34,7 @@
 	path = 15-backport-web_help
 	url = git@github.com:tarteo/web.git
 	branch = 15-backport-web_help
+[submodule "project"]
+	path = project
+	url = https://github.com/OCA/project.git
+	branch = 15.0
