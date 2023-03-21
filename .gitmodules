@@ -38,3 +38,7 @@
 	path = project
 	url = https://github.com/OCA/project.git
 	branch = 15.0
+[submodule "vertical-association"]
+	path = vertical-association
+	url = https://github.com/OCA/vertical-association.git
+	branch = 15.0
