@@ -42,3 +42,7 @@
 	path = vertical-association
 	url = https://github.com/OCA/vertical-association.git
 	branch = 15.0
+[submodule "addons-third-party"]
+	path = addons-third-party
+	url = https://github.com/onesteinbv/addons-third-party.git
+	branch = 15.0
