@@ -60,4 +60,4 @@ web/web_widget_dropdown_dynamic
 web/web_responsive
 website/website_odoo_debranding
 website/website_snippet_dynamic_link
-15-backport-web_help/web_help
+addons-pre-oca/web_help
