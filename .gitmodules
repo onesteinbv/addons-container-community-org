@@ -34,15 +34,15 @@
 	path = 15-backport-web_help
 	url = git@github.com:tarteo/web.git
 	branch = 15-backport-web_help
+[submodule "addons-third-party"]
+	path = addons-third-party
+	url = git@github.com:onesteinbv/addons-third-party.git
+	branch = 15.0
 [submodule "project"]
 	path = project
-	url = https://github.com/OCA/project.git
+	url = git@github.com:OCA/project.git
 	branch = 15.0
 [submodule "vertical-association"]
 	path = vertical-association
-	url = https://github.com/OCA/vertical-association.git
-	branch = 15.0
-[submodule "addons-third-party"]
-	path = addons-third-party
-	url = https://github.com/onesteinbv/addons-third-party.git
+	url = git@github.com:OCA/vertical-association.git
 	branch = 15.0
