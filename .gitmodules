@@ -46,3 +46,7 @@
 	path = vertical-association
 	url = git@github.com:OCA/vertical-association.git
 	branch = 15.0
+[submodule "design-themes"]
+	path = design-themes
+	url = git@github.com:odoo/design-themes.git
+	branch = 15.0
