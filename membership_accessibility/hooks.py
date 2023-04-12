@@ -14,8 +14,8 @@ def post_init_hook(cr, registry):
 def uninstall_hook(cr, registry):
     env = api.Environment(cr, SUPERUSER_ID, {})
     crm_menu = env.ref('crm.crm_menu_root')
-    crm_menu.write({'groups': [
+    crm_menu.write({'groups_id': [
         (6, 0, [env.ref('sales_team.group_sale_salesman').id, env.ref('sales_team.group_sale_manager').id])]})
     contacts_menu = env.ref('contacts.menu_contacts')
-    contacts_menu.write({'groups': [
+    contacts_menu.write({'groups_id': [
         (6, 0, [env.ref('base.group_user').id, env.ref('base.group_partner_manager').id])]})
