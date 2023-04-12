@@ -3,8 +3,9 @@
 
 {
     "name": "Membership Accessibility",
-    "summary": "Adds a new group which would manage whether users are able to see membership tab or not"
-               "Adds membership tab in user profile so that members can view their own memberships."
+    "summary": "It automatically adds required groups for member users (Sales- Own Documents Only, Project - User and Timesheet- User: own timesheets only groups for now)"
+               "Adds a new group which would manage whether users are able to see membership tab or not"
+               "Adds membership and subscription tab in user profile so that members can view their own memberships."
                "Add a new group which would manage whether users are able to see sales,crm and contacts menu",
     "version": "15.0.1.0.0",
     "category": "Membership",
@@ -12,7 +13,8 @@
     "license": "AGPL-3",
     "application": False,
     "installable": True,
-    "depends": ["membership_extension","sale","crm","mollie_subscription_ept","project","hr_timesheet","membership_hr_recruitment"],
+    "depends": ["membership_extension", "sale", "crm", "mollie_subscription_ept", "project", "hr_timesheet",
+                "membership_hr_recruitment"],
     "data": [
         "security/membership_accessibility_security.xml",
         "views/views.xml"
