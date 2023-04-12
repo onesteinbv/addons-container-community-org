@@ -50,3 +50,7 @@
 	path = design-themes
 	url = git@github.com:odoo/design-themes.git
 	branch = 15.0
+[submodule "addons-customer-nextcloud"]
+	path = addons-customer-nextcloud
+	url = git@github.com:onesteinbv/addons-customer-nextcloud.git
+	branch = staging

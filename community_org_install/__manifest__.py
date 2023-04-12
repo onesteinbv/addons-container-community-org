@@ -103,7 +103,6 @@
         'stock',
         'stock_account',
         'stock_sms',
-        'survey',
         'uom',
         'utm',
         'web_editor',
@@ -199,7 +198,8 @@
         'website_two_steps_share_technical',
 
         # 3rd-Party
-        
+        'payment_mollie_official',
+        'mollie_subscription_ept',
     ],
     'data': [],
 }
