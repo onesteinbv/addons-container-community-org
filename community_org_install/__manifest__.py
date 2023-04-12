@@ -103,6 +103,7 @@
         'stock',
         'stock_account',
         'stock_sms',
+        'survey',
         'uom',
         'utm',
         'web_editor',
