@@ -14,7 +14,7 @@
     "application": False,
     "installable": True,
     "depends": ["membership_extension", "sale", "crm", "mollie_subscription_ept", "project", "hr_timesheet",
-                "membership_hr_recruitment"],
+                "membership_hr_recruitment","membership_committee"],
     "data": [
         "security/membership_accessibility_security.xml",
         "views/views.xml"
