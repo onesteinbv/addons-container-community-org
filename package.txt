@@ -67,3 +67,4 @@ addons-third-party/mollie_subscription_ept
 addons-pre-oca/membership_variable_period
 design-themes/*
 addons-customer-nextcloud/nextcloud_odoo_sync
+addons-customer-nextcloud/nextcloud_calendar_instance_per_user
