@@ -153,6 +153,7 @@
 
         # Onestein
         'base_municipality',
+        'nextcloud_odoo_sync'
         'mass_mailing_membership_committee',
         'mass_mailing_membership_section',
         'mass_mailing_help',
