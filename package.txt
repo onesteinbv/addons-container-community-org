@@ -67,6 +67,7 @@ addons-generic/website_share_tumblr
 addons-generic/website_share_wordpress
 addons-generic/website_snippet_openstreetmap
 addons-generic/website_two_steps_share_technical
+addons-generic/payment_mollie_fix
 addons-pre-oca/mass_mailing_partner
 addons-pre-oca/account_statement_import_online_paypal
 vertical-association/membership_extension
